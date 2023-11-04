@@ -53,3 +53,4 @@
 | 49 | pbpaste | Pastes text from the clipboard to the command line. |
 | 50 | pmset -g | Displays power management settings and information. |
 
+**Please Note : There are many more linux command that are used by system adminstration these are only few of them.**
